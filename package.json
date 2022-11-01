@@ -1,0 +1,23 @@
+{
+  "name": "platzi_proyectoasincronismo2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipemunozca/Platzi_proyectoAsincronismo2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipemunozca/Platzi_proyectoAsincronismo2022/issues"
+  },
+  "homepage": "https://github.com/felipemunozca/Platzi_proyectoAsincronismo2022#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
