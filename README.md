@@ -1,6 +1,14 @@
-# Platzi_proyectoAsincronismo2022
+# Platzi - Curso de Asincronismo con JavaScript 2022
 
-Proyecto basado en el nuevo curso de **Asincronismo con JavaScript 2022** impartido por el profesor: Oscar Barajas Tavares.
+Escuela Desarrollo Web.
+
+Ruta: Full Stack Developer con JavaScript.
+
+Curso impartido por el profesor: Oscar Barajas Tavares.
+
+---
+
+Proyecto basado en el nuevo curso de **Asincronismo con JavaScript 2022**.
 
 Para este desafío se entrega una maqueta HTML de una landing page, la cual trae sus estilos CSS definidos utilizando el framework TailwindCSS.
 
